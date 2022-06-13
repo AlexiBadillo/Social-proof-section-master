@@ -51,12 +51,12 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px;
-    padding: 0 50px;
+    padding: 0 40px;
 }
 .der-row {
     width: 450px;
     background-color: rgba(189, 152, 188, 0.2);
-    padding: 15px 25px;
+    padding: 15px 30px;
     border-radius: 10px;
     display: flex;
     flex-direction: row;
